@@ -22,11 +22,6 @@ I'm an Undergraduate at The University of Toronto Mississagua. </br>
 ![draw-a-pixel-art-banner-cover-for-social-media](https://github.com/user-attachments/assets/822d4207-3f44-4ee6-9008-ca74aa9f139c)
 
 ###  Proverbs 13:4 - "The slacker craves yet has nothing, but the soul of the diligent is fully satisfied"
-
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/316zjb2exrtuwwx4jumy73jsbqpq?si=3ca5c308bc0a4029)
-
-
 ---
 
 
