@@ -4,7 +4,7 @@
 I'm an Undergraduate at The University of Toronto Mississagua. </br>
 📍 Location: Ontario, Canada </br>
 🎓 Education: Undergraduate </br>
-🌱 Areas Imterested to Pursue: Software Design and Cybersecurity
+🌱 Coding Interests: Software Design and Cybersecurity
 
 
 # 🌐 Socials:
