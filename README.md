@@ -1,15 +1,15 @@
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
 # 👋 Wassup, It's Miguel!
-##### I'm an Undergraduate at The University of Toronto Mississagua. </br>
+## I'm an Undergraduate at The University of Toronto Mississagua. </br>
 
-###### 📍 Location: Ontario, Canada </br>
+#### 📍 Location: Ontario, Canada </br>
 
-###### 🎓 Education: Undergraduate </br>
+#### 🎓 Education: Undergraduate </br>
 
-###### 🌱 Coding Interests: Software Design and Cybersecurity </br>
+#### 🌱 Coding Interests: Software Design and Cybersecurity </br>
 
-###### 🛠 Tools: Pycharm and VS Code
+#### 🛠 Tools: Pycharm and VS Code
 
 
 # 🌐 Socials:
