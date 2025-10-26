@@ -1,9 +1,11 @@
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
+<img width="1500" height="400" alt="bf910f85e5692a2" src="https://github.com/user-attachments/assets/48bc2b25-11bd-4e7c-8084-8d835827a3ca" />
 # 👋 Wassup, It's Miguel!
 I'm an Undergraduate at The University of Toronto Mississagua. </br>
 📍 Location: Ontario, Canada </br>
 🎓 Education: Undergraduate </br>
+
 🌱 Coding Interests: Software Design and Cybersecurity </br>
 🛠 Tools: Pycharm and VS Code
 
