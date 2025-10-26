@@ -5,7 +5,7 @@
 
 📍 Location: Ontario, Canada </br>
  🎓 Education: Undergraduate </br>
-🌱 Coding Interests: Software Design and Cybersecurity </br>
+🌱 Interested in Pursuing: Software Design and Cybersecurity </br>
 🛠 Tools: Pycharm and VS Code
 
 
