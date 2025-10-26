@@ -1,6 +1,6 @@
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
-### "The slacker craves yet has nothing, but the soul of the diligent is fully satisfied", Proverbs 13:4
+###  Proverbs 13:4 - "The slacker craves yet has nothing, but the soul of the diligent is fully satisfied"
 
 # 👋 Wassup, It's Miguel!
 I'm an Undergraduate at The University of Toronto Mississagua. </br>
