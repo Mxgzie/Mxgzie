@@ -5,6 +5,7 @@ I'm an Undergraduate at The University of Toronto Mississagua. </br>
 📍 Location: Ontario, Canada </br>
 🎓 Education: Undergraduate </br>
 🌱 Coding Interests: Software Design and Cybersecurity
+🛠 Tools: Pycharm and VS Code
 
 
 # 🌐 Socials:
