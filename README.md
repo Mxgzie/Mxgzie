@@ -4,6 +4,7 @@
 I'm an Undergraduate at The University of Toronto Mississagua. </br>
 📍 Location: Ontario, Canada </br>
 🎓 Education: Undergraduate
+🌱 Currently Learning: Tuples and Dictionaries
 
 
 # 🌐 Socials:
