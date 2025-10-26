@@ -1,30 +1,8 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
-
-## About
-👋 Wassup, I'm Miguel. I'm an Undergraduate at The University of Toronto Mississagua.
-
-- 📍 Location: Ontario, Canada
-- 🎓 Education: Undergraduate
-
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
-
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
-
-<!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
 # 👋 Wassup It's Miguel
-## I'm an Undergraduate at The University of Toronto Mississagua. </br>
-###📍 Location: Ontario, Canada </br>
-###🎓 Education: Undergraduate
+I'm an Undergraduate at The University of Toronto Mississagua. </br>
+📍 Location: Ontario, Canada </br>
+🎓 Education: Undergraduate
 
 
 # 🌐 Socials:
