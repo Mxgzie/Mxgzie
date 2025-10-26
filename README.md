@@ -21,6 +21,11 @@
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
+# 👋 Wassup, I'm Miguel
+I'm an Undergraduate at The University of Toronto Mississagua.
+📍 Location: Ontario, Canada
+🎓 Education: Undergraduate
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/migzgomez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:migzgabgomez@gmail.com) 
